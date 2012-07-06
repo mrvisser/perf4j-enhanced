@@ -29,6 +29,7 @@
 		<version>7</version>
 	</parent>
 
+	<groupId>org.sakaiproject.nakamura</groupId>
 	<artifactId>perf4j-enhanced</artifactId>
 	<packaging>jar</packaging>
 	<version>0.9.16</version>
